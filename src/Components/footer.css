@@ -1,0 +1,18 @@
+:root {
+    --footer-bg-color: black;
+    --footer-text-color: white;
+  }
+  
+  .dark-theme {
+    --footer-bg-color: white; 
+    --footer-text-color: black; 
+  }
+  
+  .footer {
+    background-color: var(--footer-bg-color);
+    color: var(--footer-text-color);
+  }
+  
+  .footer-link {
+    color: var(--footer-text-color);
+  }

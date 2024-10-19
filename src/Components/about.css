@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  .border {
+    border: 1px solid var(--border-color);
+  }
+  
+  .text-grey {
+    color: var(--text-color);
+  }
+  

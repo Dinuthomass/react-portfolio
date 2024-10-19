@@ -1,0 +1,71 @@
+
+@media (max-width: 991.98px) { 
+    .custom-collapse .navbar-nav {
+      justify-content: flex-start !important; 
+    }
+  }
+
+
+
+  :root {
+    --bg-color: white;
+    --text-color: black;
+    --card-bg-color: white;
+    --card-text-color: black;
+    --btn-border-color: black;
+  }
+  
+  .dark-theme {
+    --bg-color: #121212;
+    --text-color: white;
+    --card-bg-color: #1e1e1e;
+    --card-text-color: white;
+    --btn-border-color: white;
+  }
+  
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  .card {
+    background-color: var(--card-bg-color);
+    color: var(--card-text-color);
+  }
+  
+  .btn-outline-dark {
+    border-color: var(--btn-border-color);
+    color: var(--text-color);
+  }
+  
+  .navbar, .modal-content {
+    background-color: var(--bg-color);
+  }
+  
+  .nav-link, .fa-toggle-off, .fa-github, .fa-linkedin {
+    color: var(--text-color);
+  }
+
+
+  .border {
+    border-color: var(--border-color);
+  }
+  
+
+
+  .nav-link {
+    color: var(--text-color) !important; 
+  }
+
+  .navbar-brand {
+    color: var(--text-color) !important; 
+  }
+  
+  
+  
+  
+  
+ 
+  
+  
+  
